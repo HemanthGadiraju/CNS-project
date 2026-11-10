@@ -1,0 +1,60 @@
+{
+  "raw_rows": 187431,
+  "after_dedup": 167698,
+  "dropped_non_firmware_ext": 32632,
+  "dropped_junk_or_langpack": 10551,
+  "clean_rows": 124515,
+  "version_parsed_rate": 0.844,
+  "clean_by_class": {
+    "unknown": 96221,
+    "camera": 15832,
+    "router": 8226,
+    "switch": 2606,
+    "other": 1379,
+    "nas": 251
+  },
+  "clean_by_origin": {
+    "openwrt": 70708,
+    "oem": 51367,
+    "dd-wrt": 1489,
+    "tomato": 943,
+    "archive.org": 8
+  },
+  "C2_images": 231,
+  "C2_by_vendor": {
+    "netgear": 25,
+    "asus": 25,
+    "tp-link": 25,
+    "tenda": 25,
+    "linksys": 25,
+    "trendnet": 25,
+    "ubiquiti": 25,
+    "axis": 25,
+    "dlink": 24,
+    "belkin": 7
+  },
+  "C2_by_class": {
+    "router": 178,
+    "camera": 53
+  },
+  "C3_pairs": 60,
+  "C3_by_vendor": {
+    "asus": 7,
+    "axis": 7,
+    "dlink": 7,
+    "netgear": 7,
+    "trendnet": 7,
+    "ubiquiti": 7,
+    "linksys": 6,
+    "tenda": 6,
+    "tp-link": 6
+  },
+  "C3_candidate_pairs_total": 2971,
+  "C1r_devices": 10,
+  "C1r_images": 35,
+  "C1r_arch": {
+    "ARM": 5,
+    "MIPS": 5
+  },
+  "manifest_unique_images": 358
+}
